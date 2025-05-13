@@ -1,4 +1,4 @@
-# Mini Bank Loyihasi
+# TZ-BANK-SYSTEM Loyihasi
 
 Ushbu loyiha kichik bank tizimini yaratish uchun mo'ljallangan. Loyihada ma'lumotlar bazasi, foydalanuvchilarni qo'shish va hisobotlar tayyorlash kabi funktsiyalar mavjud.
 
@@ -12,7 +12,7 @@ Ushbu loyiha kichik bank tizimini yaratish uchun mo'ljallangan. Loyihada ma'lumo
 - **insert_user.py**: Foydalanuvchilarni ma'lumotlar bazasiga qo'shish uchun ishlatiladi.
 - **insert_card.py**: Kartalarni ma'lumotlar bazasiga qo'shish uchun mo'ljallangan skript.
 - **TZB.db**: Loyihaning ma'lumotlar bazasi fayli.
-- **mini_bank.py**: Kichik bank tizimining asosiy funksiyalarini o'z ichiga oladi.
+- **mini_bank.py**: Kichik bank tizimi demo project. # bu loyihadan tashqari ish
 - **run.py**: KPI faylida joylashgan so'rovlarni bajarish uchun ishlatiladi.
 
 ## O'rnatish
